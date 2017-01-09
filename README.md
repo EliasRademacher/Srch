@@ -10,4 +10,4 @@ You must have Elixir and Erlang installed on your machine to use this module.
 
 3. Enter the directory that you want to search through and the string you want to search for as the script prompts you.
 
-4. The script will print out the time it took to complete the search, and each line of text it found which contains the provided string:
+4. The script will print out the time it took to complete the search, and each line of text it found which contains the provided string.
